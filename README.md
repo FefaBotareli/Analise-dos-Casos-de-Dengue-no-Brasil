@@ -26,7 +26,7 @@ Os dados históricos revelam um comportamento cíclico e altamente previsível. 
 
 **💡 Decisão de Negócio:** Campanhas de conscientização e mutirões de eliminação de focos do *Aedes aegypti* não devem ser feitos de forma reativa no pico da doença. Os recursos e comunicações de rádio/TV precisam ser alocados de forma preventiva no início do ciclo de alta (fim do ano/janeiro).
 
-![Análise de Sazonalidade](./gráfico%201.jpg)
+![Análise de Sazonalidade](./grafico_sazonalidade.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ A análise da série anual demonstra instabilidade no volume total de notificaç
 
 **💡 Decisão de Negócio:** O crescimento percentual agressivo em determinados anos serve como um gatilho de alerta para que a cadeia de suprimentos farmacêuticos (testes rápidos, insumos hospitalares e medicamentos) ajuste seus estoques preventivamente com base no ritmo de aceleração inicial detectado.
 
-![Evolução Temporal](./gráfico%202.png)
+![Evolução Temporal](./grafico_evolucao.png)
 
 ---
 
@@ -44,7 +44,7 @@ Ao mapearmos o volume acumulado de casos por Unidade Federativa, a distribuiçã
 
 **💡 Decisão de Negócio:** Sabendo exatamente quais estados ocupam o topo do ranking, os gestores e os **exércitos de agentes de saúde** podem focar sua atuação de forma cirúrgica. Recursos públicos limitados geram maior impacto quando direcionados aos locais de maior criticidade, reduzindo custos operacionais e maximizando vidas salvas.
 
-![Top Estados mais Afetados](./gráfico%203.png)
+![Top Estados mais Afetados](./grafico_estados.png)
 
 ---
 
